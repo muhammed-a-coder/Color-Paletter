@@ -36,4 +36,4 @@ I built this color palette website to create something clean, structured, and ac
 
 🎞️ Preview
 ---
-<img width="1366" height="738" alt="image" src="https://github.com/user-attachments/assets/9c58ee58-58fa-4dbf-ba14-ea1aa308b84b" />
+<img width="1366" height="619" alt="image" src="https://github.com/user-attachments/assets/1fcf116d-1647-4ac7-8299-77d2974a1acc" />
