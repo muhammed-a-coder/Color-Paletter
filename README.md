@@ -39,6 +39,8 @@ I built this color palette website to create something clean, structured, and ac
 1. Download the files and ensure they are in the same folder
 2. Run index.html
 
+or just open this: https://muhammed-a-coder.github.io/Color-Paletter/ 
+
 🎞️ Preview
 ---
 <img width="1366" height="619" alt="image" src="https://github.com/user-attachments/assets/1fcf116d-1647-4ac7-8299-77d2974a1acc" />
